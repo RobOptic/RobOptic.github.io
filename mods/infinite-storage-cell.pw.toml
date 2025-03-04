@@ -1,0 +1,13 @@
+name = "Infinite Storage Cell"
+filename = "infinitestoragecell-1.20.1-1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cbff32e564bcdba954635b11d06d50a3b627fb2d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6155997
+project-id = 1173691
